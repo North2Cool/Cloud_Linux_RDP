@@ -4,7 +4,7 @@
 
 <h1 align="center"> Cloud Linux RDP - OnlineHacKing</h1>
 <p align="center">
-  Free Cloud Linux Desktop RDP
+  Free Cloud Linux Desktop RD
 </p>
 <p align="center">
 <a href="https://www.onlinehacking.in/cloud-linux-rdp-desktop-lifetime-free"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
